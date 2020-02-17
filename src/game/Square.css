@@ -1,0 +1,15 @@
+.square{
+    width: 100px;
+    border: solid 1px lightgray;
+    display: inline-block;
+    line-height: 100px;
+    text-align: center;
+    background-color: lightgray;
+  }
+
+  .square-2{background-color: #AA6C39;}
+  .square-4{background-color: #7D2A68;}
+  .square-8{background-color: #2F3F73;}
+  .square-16{background-color: #277553;}
+  .square-32{background-color: #85A236;}
+  .square-64{background-color: #AB8F39;}
